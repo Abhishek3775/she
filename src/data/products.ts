@@ -194,7 +194,7 @@ export const products: Product[] = [
   {
     id: "prod_010", name: "Taupe Wide Leg Trousers", category: "bottoms", price: 1099, originalPrice: 1099, discount: 0,
     images: [
-      "https://images.unsplash.com/photo-1594938298603-c8148c4b4d4a?w=600&q=85&fit=crop",
+      "https://images.unsplash.com/photo-1669059921524-327a4c52cff3?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=600&q=85&fit=crop",
     ],
     hoverImage: "https://images.unsplash.com/photo-1506629082955-511b1aa562c8?w=600&q=85&fit=crop",
@@ -251,9 +251,9 @@ export const products: Product[] = [
     id: "prod_014", name: "Pearl Drop Earrings", category: "accessories", price: 499, originalPrice: 499, discount: 0,
     images: [
       "https://images.unsplash.com/photo-1535632066927-ab7c9ab60908?w=600&q=85&fit=crop",
-      "https://images.unsplash.com/photo-1611085583191-a3b181a88401?w=600&q=85&fit=crop",
+      "https://images.unsplash.com/photo-1573717008136-5a9f0820e8bf?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     ],
-    hoverImage: "https://images.unsplash.com/photo-1611085583191-a3b181a88401?w=600&q=85&fit=crop",
+    hoverImage: "https://images.unsplash.com/photo-1573717008136-5a9f0820e8bf?q=80&w=687&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     colors: [{ name: "Pearl", hex: "#F5F0E8" }, { name: "Gold", hex: "#C4A882" }],
     sizes: ["One Size"], outOfStockSizes: [], badge: "", rating: 4.5, reviewCount: 89,
     isNew: false, isSale: false, isBestseller: false,
@@ -265,9 +265,9 @@ export const products: Product[] = [
     id: "prod_015", name: "Velvet Bodycon Mini Dress", category: "dresses", price: 1699, originalPrice: 2299, discount: 26,
     images: [
       "https://images.unsplash.com/photo-1581044777550-4cfa60707c03?w=600&q=85&fit=crop",
-      "https://images.unsplash.com/photo-1570976447640-ac859083963f?w=600&q=85&fit=crop",
+      "https://images.unsplash.com/photo-1663016856469-23f3824c7b51?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     ],
-    hoverImage: "https://images.unsplash.com/photo-1570976447640-ac859083963f?w=600&q=85&fit=crop",
+    hoverImage: "https://images.unsplash.com/photo-1663016856469-23f3824c7b51?q=80&w=764&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     colors: [{ name: "Deep Rose", hex: "#A0495E" }, { name: "Black", hex: "#2C2020" }],
     sizes: ["XS", "S", "M", "L"], outOfStockSizes: [], badge: "NEW", rating: 4.7, reviewCount: 145,
     isNew: true, isSale: true, isBestseller: false,
@@ -279,9 +279,9 @@ export const products: Product[] = [
     id: "prod_016", name: "Statement Chain Necklace", category: "accessories", price: 699, originalPrice: 699, discount: 0,
     images: [
       "https://images.unsplash.com/photo-1599643478518-a784e5dc4c8f?w=600&q=85&fit=crop",
-      "https://images.unsplash.com/photo-1601121141461-9d6647bef0a1?w=600&q=85&fit=crop",
+      "https://images.unsplash.com/photo-1620656798579-1984d9e87df7?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     ],
-    hoverImage: "https://images.unsplash.com/photo-1601121141461-9d6647bef0a1?w=600&q=85&fit=crop",
+    hoverImage: "https://images.unsplash.com/photo-1620656798579-1984d9e87df7?q=80&w=1170&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     colors: [{ name: "Gold", hex: "#C4A882" }, { name: "Silver", hex: "#C0C0C0" }],
     sizes: ["One Size"], outOfStockSizes: [], badge: "", rating: 4.4, reviewCount: 56,
     isNew: false, isSale: false, isBestseller: false,

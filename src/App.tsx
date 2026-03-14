@@ -19,11 +19,13 @@ import OrderConfirmationPage from "@/pages/OrderConfirmationPage";
 import LookbookPage from "@/pages/LookbookPage";
 import AboutPage from "@/pages/AboutPage";
 import NotFound from "@/pages/NotFound";
+import ScrollToTop from "@/components/ScrollTop/ScrollToTop";
 
 const App = () => (
   <CartProvider>
     <WishlistProvider>
       <BrowserRouter>
+      <ScrollToTop />
         <div className="min-h-screen flex flex-col bg-cream">
           <AnnouncementBar />
           <Navbar />
